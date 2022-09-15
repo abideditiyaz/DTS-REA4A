@@ -1,0 +1,1 @@
+console.table(`Hi, I'am Abid From REA4 class A \nthis is my first assignment :)`)
